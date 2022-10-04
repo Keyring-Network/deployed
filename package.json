@@ -1,0 +1,12 @@
+{
+    "name": "@keyring-network/deployed",
+    "description": "Deployed smart contracts base repo",
+    "version": "1.0.0",
+    "license": "MIT",
+    "engines": {
+      "node": ">=14"
+    },
+    "devDependencies": {},
+    "dependencies": {}
+  }
+  
